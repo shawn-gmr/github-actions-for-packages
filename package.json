@@ -1,8 +1,9 @@
 {
-  "name": "actions-template",
+  "name": "@shawn-gmr/tic-tac-toe",
   "version": "1.0.0",
   "description": "Learn how to use GitHub Actions!",
   "main": "index.js",
+  "git": "//github.com/shawn-gmr/github-actions-for-packages.git",
   "directories": {
     "test": "__test__",
     "src": "src"
